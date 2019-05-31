@@ -22,7 +22,7 @@ The python code requires many libraries to be installed and added to work proper
 
 ## Demo
 ------
-A demo of the robot can be found here. It works, but by the nature of computer vision tracking a color, it is a little off sometimes.
+A demo of the robot can be found [here](https://youtu.be/I-BNOuoiZrs). It works, but by the nature of computer vision tracking a color, it is a little off sometimes.
 
 
 ## Thanks:
